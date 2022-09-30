@@ -49,6 +49,7 @@ export default function Footer() {
             <Link href={'#'}> {t('footer_menu_option_3')}</Link>
             <Link href={'#'}> {t('footer_menu_option_4')}</Link>
             <Link href={'#'}> {t('footer_menu_option_5')}</Link>
+            <Link href={'#'}> {t('footer_menu_option_6')}</Link>
           </Stack>
    
         </SimpleGrid>
