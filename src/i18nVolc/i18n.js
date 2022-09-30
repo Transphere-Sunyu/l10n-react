@@ -14,6 +14,7 @@ reactI18n.init({
     mode:'test',
     
    
+    
   },
   react: {
     useSuspense: true,
