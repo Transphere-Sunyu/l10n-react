@@ -7,10 +7,10 @@ reactI18n.init({
   supportedLngs: languages,
   preload: languages,
   backend: {
-    namespace: 39974,
+    namespace: 39975,
     operatorId: 2100225925,
-    apiKey: '244e3e503e4011edadfba30104a746d8',
-    projectId: 4955,
+    apiKey: '290351a047a611ed9fd18180304709ab',
+    projectId: 4956,
     mode:'test',
     
    
