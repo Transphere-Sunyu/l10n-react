@@ -1,7 +1,6 @@
 import reactI18n from '@volcengine/i18n'
 
-const languages = ['en-US','zh-CN','ar-AR','th-TH','ko-KR','sw-KE','ja-JP','fr-FR']
-
+const languages = ['en-US','zh-CN']
 reactI18n.init({
   lng: 'en-US',
   supportedLngs: languages,
@@ -9,9 +8,8 @@ reactI18n.init({
   backend: {
     namespace: 39975,
     operatorId: 2100225925,
-    apiKey: '290351a047a611ed9fd18180304709ab',
+    apiKey: 'f9a2b06047a811eda330c5849252e15e',
     projectId: 4956,
-    mode:'test',
     
    
     
