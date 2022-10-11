@@ -139,7 +139,7 @@ const DesktopNav = () => {
   const {t} = useContext(translationContext)
   const NAV_ITEMS = [
     {
-      label: t('navbar item 1'),
+      label: t('navbar_item_1'),
       href: '#',
     },
     {

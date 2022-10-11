@@ -6,7 +6,7 @@ reactI18n.init({
   supportedLngs: languages,
   preload: languages,
   backend: {
-    namespace: 39975,
+    namespace: 39996,
     operatorId: 2100225925,
     apiKey: 'f9a2b06047a811eda330c5849252e15e',
     projectId: 4956,
