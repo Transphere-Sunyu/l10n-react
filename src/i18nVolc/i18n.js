@@ -1,8 +1,8 @@
 import reactI18n from '@volcengine/i18n'
 
-const languages = ['en-US','zh-CN']
+const languages = ['en','zh-CN']
 reactI18n.init({
-  lng: 'en-US',
+  lng: 'en',
   supportedLngs: languages,
   preload: languages,
   backend: {

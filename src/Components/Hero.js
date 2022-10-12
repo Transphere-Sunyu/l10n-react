@@ -40,7 +40,7 @@ import TranslationContext from '../Contexts/translationContext';
               colorScheme={'orange'}
               bg={'orange.400'}
               _hover={{ bg: 'orange.500' }}>
-              { t('new button')}
+              { t('hero_button_text_1')}
             </Button>
             <Button rounded={'full'} px={6}>
             { t('hero_button_text_2')}
