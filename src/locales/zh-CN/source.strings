@@ -104,3 +104,5 @@
 "stats_value_2" = "1M+";
 
 "stats_value_3" = "20";
+
+"single" = "source/target text";
