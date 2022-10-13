@@ -933,6 +933,188 @@
         <string>%d ap %d ples %d  me</string>
       </dict>
     </dict>
+    <key>Calendar_MeetingRoom_CheckInDescription</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@format_key@</string>
+      <key>format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>one</key>
+        <string>Vous pouvez confirmer la réunion jusqu'à 1 min avant l'heure de début prévue.</string>
+        <key>other</key>
+        <string>Vous pouvez confirmer la réunion jusqu'à %d mins avant l'heure de début prévue.</string>
+      </dict>
+    </dict>
+    <key>icu_var5</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@format_key@</string>
+      <key>format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>zero</key>
+        <string>op met resensie {{num}} dag0 later</string>
+        <key>one</key>
+        <string>op met resensie {{num}} dag1 later</string>
+        <key>two</key>
+        <string>op met resensie {{num}} dag2 later</string>
+        <key>few</key>
+        <string>op met resensie {{num}} dag3 later</string>
+        <key>many</key>
+        <string>op met resensie {{num}} dag4 later</string>
+        <key>other</key>
+        <string>op met resensie {{num}} dag5 later</string>
+      </dict>
+    </dict>
+    <key>icu4</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@format_key@</string>
+      <key>format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>zero</key>
+        <string>no projects</string>
+        <key>one</key>
+        <string>one project</string>
+        <key>two</key>
+        <string>two projects</string>
+        <key>other</key>
+        <string>%d projects</string>
+      </dict>
+    </dict>
+    <key>icu2</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@format_key@</string>
+      <key>format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>zero</key>
+        <string>you no apples me</string>
+        <key>one</key>
+        <string>you one %d apple me</string>
+        <key>two</key>
+        <string>you %dtwo ap%dple me</string>
+        <key>other</key>
+        <string>you %d appl%des me</string>
+      </dict>
+    </dict>
+    <key>icu_var7</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@format_key@</string>
+      <key>format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>two</key>
+        <string>{ssss} 3 op met resensie {num} dag2 later</string>
+        <key>few</key>
+        <string>{ssss} 3 op met resensie {num} dag3 later</string>
+        <key>many</key>
+        <string>{ssss} 3 op met resensie {num} dag4 later</string>
+        <key>other</key>
+        <string>{ssss} 3 op met resensie {num} dag5 later</string>
+      </dict>
+    </dict>
+    <key>icu_var6</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@format_key@</string>
+      <key>format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>two</key>
+        <string>op met resensie {{num}} dag2 later</string>
+        <key>few</key>
+        <string>op met resensie {{num}} dag3 later</string>
+        <key>many</key>
+        <string>op met resensie {{num}} dag4 later</string>
+        <key>other</key>
+        <string>op met resensie {{num}} dag5 later</string>
+      </dict>
+    </dict>
+    <key>icu_var4</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@format_key@</string>
+      <key>format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>one</key>
+        <string>10 minute tot jou LIVE: ”{0}”. {0} gebruiker het herinneraar gestel.</string>
+        <key>other</key>
+        <string>10 minute tot jou LIVE: ”{0}”. {0} gebruikers het herinneraars gestel.</string>
+      </dict>
+    </dict>
+    <key>icu_var3</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@format_key@</string>
+      <key>format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>one</key>
+        <string>You enjoyed {genre_cnt}</string>
+        <key>other</key>
+        <string>You enjoyed {genre_cnt}</string>
+      </dict>
+    </dict>
+    <key>icu_var2</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@format_key@</string>
+      <key>format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>one</key>
+        <string>You enjoyed {genre_cnt} genre this year, including:</string>
+        <key>other</key>
+        <string>You enjoyed {genre_cnt} different genres this year, including:</string>
+      </dict>
+    </dict>
+    <key>icu_var</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@format_key@</string>
+      <key>format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>one</key>
+        <string>{aaaa} %d assignee in total including {bbb}</string>
+        <key>other</key>
+        <string>{aaaa} %d assignees in total including {bbb}</string>
+      </dict>
+    </dict>
+    <key>icu3</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@format_key@</string>
+      <key>format_key</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>zero</key>
+        <string>no apples me</string>
+        <key>one</key>
+        <string>one apple me</string>
+        <key>two</key>
+        <string>two apple me</string>
+        <key>other</key>
+        <string>%d ap %d ples %d  me</string>
+      </dict>
+    </dict>
     </dict>
   </dict>
 </plist>
