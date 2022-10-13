@@ -1,0 +1,98 @@
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="38379424" datatype="plaintext" source-language="en">
+    <body>
+      <trans-unit id="stats_value_1">
+        <source>50K+</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="homepage_new_hero_text_3">
+        <source>Deliver.</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="homepage_new_services_service_title_1">
+        <source>Web Development</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="homepage_new_services_details_3">
+        <source>Details</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="homepage_new_services_service_description_4">
+        <source>Boost your sales dramatically through taking your business online and reaching a larger audience.Nothing better than more sales.</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="navbar_item_4">
+        <source>Download</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="homepage_new_services_details_4">
+        <source>Details</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="navbar_item_5">
+        <source>Help Center</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="hero_body">
+        <source>Never miss a meeting. Never be late for one too. Keep track of your meetings and receive smart reminders in appropriate times. Read your smart “Daily Agenda” every morning.</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="hero_button_text_1">
+        <source>Get Started</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="stats_title_2">
+        <source>Downloads</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="footer_menu_option_5">
+        <source>Releases</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="homepage_new_hero_text_1">
+        <source>Design.</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="navbar_item_3">
+        <source>Pricing</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="signup">
+        <source>signup</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="footer_menu_option_4">
+        <source> Pricing</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="homepage_new_services_details_2">
+        <source>Details</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="footer_menu_option_6">
+        <source>Partners</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="homepage_new_services_service_description_2">
+        <source>Get eye-catching and top tier UI Designs that will speak for your brand.First impression is everything.</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="navbar_item_2">
+        <source>Features</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="feature_body">
+        <source>We're here to help you connect, communicate, and express your ideas so you can get more done together. We're proud to be trusted by millions of large enterprises, small businesses, and individuals. </source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="footer_menu_option_2">
+        <source>Features</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="homepage_new_hero_body_text">
+        <source>We are a design technology company specialized in delivering high-end custom web applications for businesses using industry leading technologies.Watch us turn your idea to a working product that will mirror your brand.</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

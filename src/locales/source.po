@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 4956\n"
+"Report-Msgid-Bugs-To: https://starling.bytedance.net\n"
+"POT-Creation-Date: 2022-10-13T05:17:35.674Z\n"
+"PO-Revision-Date: 2022-10-13T05:17:35.674Z\n"
+"Language: en\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"mime-version: 1.0\n"
+"x-poedit-sourcecharset: utf-8\n"
+"Last-Translator: \n"
+"Language-Team: https://starling.bytedance.net\n"
+"x-poedit-language: en\n"
+"x-poedit-country: \n"
+
+msgid "feature_body"
+msgstr "We're here to help you connect, communicate, and express your ideas so you can get more done together. We're proud to be trusted by millions of large enterprises, small businesses, and individuals. "
+
+msgid "feature_heading"
+msgstr "Never miss a meeting"
+
+msgid "feature_label_title"
+msgstr "Our Product"
+
+msgid "feature_title_1"
+msgstr "Team Collaboration"
+
+msgid "feature_title_2"
+msgstr "Cloud Video Recording"
+
+msgid "feature_title_3"
+msgstr "Third-party integrations"
+
+msgid "footer_menu_option_1"
+msgstr "Overview"
+
+msgid "footer_menu_option_2"
+msgstr "Features"
+
+msgid "footer_menu_option_3"
+msgstr "Features"
+
+msgid "footer_menu_option_4"
+msgstr " Pricing"
+
+msgid "footer_menu_option_5"
+msgstr "Releases"
+
+msgid "footer_menu_option_6"
+msgstr "Partners"
+
+msgid "footer_menu_title"
+msgstr "Product"
+
+msgid "hero_body"
+msgstr "Never miss a meeting. Never be late for one too. Keep track of your meetings and receive smart reminders in appropriate times. Read your smart “Daily Agenda” every morning."
+
+msgid "hero_button_text_1"
+msgstr "Get Started"
+
+msgid "hero_button_text_2"
+msgstr "Learn More"
+
+msgid "hero_title_1"
+msgstr "Meeting scheduling"
+
+msgid "hero_title_2"
+msgstr "made easy"
+
+msgid "homepage_new_cta"
+msgstr "Work with us!"
+
+msgid "homepage_new_featured_projects"
+msgstr "Featured Projects."
+
+msgid "homepage_new_hero_body_text"
+msgstr "We are a design technology company specialized in delivering high-end custom web applications for businesses using industry leading technologies.Watch us turn your idea to a working product that will mirror your brand."
+
+msgid "homepage_new_hero_text_1"
+msgstr "Design."
+
+msgid "homepage_new_hero_text_2"
+msgstr "Develop."
+
+msgid "homepage_new_hero_text_3"
+msgstr "Deliver."
+
+msgid "homepage_new_services_details_1"
+msgstr "Details"
+
+msgid "homepage_new_services_details_2"
+msgstr "Details"
+
+msgid "homepage_new_services_details_3"
+msgstr "Details"
+
+msgid "homepage_new_services_details_4"
+msgstr "Details"
+
+msgid "homepage_new_services_service_description_1"
+msgstr "End-to-end Development that will get your project launched seamlessly for your business to leverage in due time from start to finish."
+
+msgid "homepage_new_services_service_description_2"
+msgstr "Get eye-catching and top tier UI Designs that will speak for your brand.First impression is everything."
+
+msgid "homepage_new_services_service_description_3"
+msgstr "Today's applications depend on third-party API's for data that plays a big role in order to meet the business' goals."
+
+msgid "homepage_new_services_service_description_4"
+msgstr "Boost your sales dramatically through taking your business online and reaching a larger audience.Nothing better than more sales."
+
+msgid "homepage_new_services_service_title_1"
+msgstr "Web Development"
+
+msgid "homepage_new_services_service_title_2_1"
+msgstr "UI"
+
+msgid "homepage_new_services_service_title_2_2"
+msgstr "Design"
+
+msgid "homepage_new_services_service_title_3_1"
+msgstr "API"
+
+msgid "homepage_new_services_service_title_3_2"
+msgstr "Integration"
+
+msgid "homepage_new_services_service_title_4"
+msgstr "Ecommerce Development"
+
+msgid "homepage_new_view_work"
+msgstr "View Work "
+
+msgid "login"
+msgstr "login"
+
+msgid "navbar_item_1"
+msgstr "Home"
+
+msgid "navbar_item_2"
+msgstr "Features"
+
+msgid "navbar_item_3"
+msgstr "Pricing"
+
+msgid "navbar_item_4"
+msgstr "Download"
+
+msgid "navbar_item_5"
+msgstr "Help Center"
+
+msgid "signup"
+msgstr "signup"
+
+msgid "stats_heading"
+msgstr "Statistics"
+
+msgid "stats_title_1"
+msgstr "Users"
+
+msgid "stats_title_2"
+msgstr "Downloads"
+
+msgid "stats_title_3"
+msgstr "Years"
+
+msgid "stats_value_1"
+msgstr "50K+"
+
+msgid "stats_value_2"
+msgstr "1M+"
+
+msgid "stats_value_3"
+msgstr "20"
