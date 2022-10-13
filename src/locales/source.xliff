@@ -1,0 +1,26 @@
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="frontend" datatype="plaintext" source-language="" target-language="en">
+    <body>
+      <trans-unit id="Export">
+        <source>导出全部</source>
+        <target state="translated">Export all</target>
+      </trans-unit>
+      <trans-unit id="Progress">
+        <source>翻译进度</source>
+        <target state="translated">Progress</target>
+      </trans-unit>
+      <trans-unit id="Created">
+        <source>创建人</source>
+        <target state="translated">Created by</target>
+      </trans-unit>
+      <trans-unit id="Export">
+        <source>导出文案</source>
+        <target state="translated">Export</target>
+      </trans-unit>
+      <trans-unit id="pluraltest">
+        <source>{num, plural, other {pluraltest}}</source>
+        <target state="translated">{num, plural, one {plural en one} other {plural en other}}</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
